@@ -3,14 +3,14 @@ This is a online quiz platform for teacher and student roles.teacher can perform
 Here there are two roles TEACHER and STUDENT.
 
 TEACHER role:
-CRUD operation on quizzes.
-report generation
-login/register
+CRUD operation on quizzes. ,
+ report generation ,
+ login/register ,
 
 Student role:
-login/register
-taking quiz
-reviewing score on leader board.
+ login/register,
+ taking quiz,
+ reviewing score on leader board.
 
 this is fully developed using jsp.
 Software requirements:
